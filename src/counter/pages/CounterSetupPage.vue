@@ -28,7 +28,5 @@ const { increment, incrementBy } = counterStore;
 </template>
 
 <style scoped>
-* {
-  border: 2px solid red;
-}
+
 </style>
